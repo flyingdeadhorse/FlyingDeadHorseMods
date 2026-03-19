@@ -4,7 +4,7 @@ A Foundry VTT module that replaces the plain dice roll with a full-screen cinema
 
 ---
 
-## Editions
+## Editions 
 
 | Feature                                    | Standard (`my-rollmate`) | Premium (`my-best-rollmate`) |
 | ------------------------------------------ | ------------------------ | ---------------------------- |
